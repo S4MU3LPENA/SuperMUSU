@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 75a5656a01409b14a91bf6ec5637b01b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3792395060041514804
+    second: VAMPIRE_HUNTER_FREE_0
+  - first:
+      213: -5667861555724550669
+    second: VAMPIRE_HUNTER_FREE_1
+  - first:
+      213: -5372239202164293796
+    second: VAMPIRE_HUNTER_FREE_2
+  - first:
+      213: -6328600326365664746
+    second: VAMPIRE_HUNTER_FREE_3
+  - first:
+      213: 8943128849497803020
+    second: VAMPIRE_HUNTER_FREE_4
+  - first:
+      213: -3467335859500094967
+    second: VAMPIRE_HUNTER_FREE_5
+  - first:
+      213: -5705466474391997374
+    second: VAMPIRE_HUNTER_FREE_6
+  - first:
+      213: 2329908477541708489
+    second: VAMPIRE_HUNTER_FREE_7
+  - first:
+      213: 9141571840428667893
+    second: VAMPIRE_HUNTER_FREE_8
+  - first:
+      213: -6727301757369653517
+    second: VAMPIRE_HUNTER_FREE_9
+  - first:
+      213: 3968878825527459916
+    second: VAMPIRE_HUNTER_FREE_10
+  - first:
+      213: -3030287704192586801
+    second: VAMPIRE_HUNTER_FREE_11
+  - first:
+      213: -523252251143868942
+    second: VAMPIRE_HUNTER_FREE_12
+  - first:
+      213: 1054001824596762924
+    second: VAMPIRE_HUNTER_FREE_13
+  - first:
+      213: 6206856082433907556
+    second: VAMPIRE_HUNTER_FREE_14
+  - first:
+      213: -4630884266728735160
+    second: VAMPIRE_HUNTER_FREE_15
+  - first:
+      213: -5651191810830377794
+    second: VAMPIRE_HUNTER_FREE_16
+  - first:
+      213: 7756443413172182701
+    second: VAMPIRE_HUNTER_FREE_17
+  - first:
+      213: -2342618478935742803
+    second: VAMPIRE_HUNTER_FREE_18
+  - first:
+      213: -6497804026279051233
+    second: VAMPIRE_HUNTER_FREE_19
+  - first:
+      213: 8974739232057233197
+    second: VAMPIRE_HUNTER_FREE_20
+  - first:
+      213: 713206328134655363
+    second: VAMPIRE_HUNTER_FREE_21
+  - first:
+      213: 2454965061763802083
+    second: VAMPIRE_HUNTER_FREE_22
+  - first:
+      213: 3788477222537325735
+    second: VAMPIRE_HUNTER_FREE_23
+  - first:
+      213: -8033984473413461836
+    second: VAMPIRE_HUNTER_FREE_24
+  - first:
+      213: -6156280419446357250
+    second: VAMPIRE_HUNTER_FREE_25
+  - first:
+      213: 717409735754795865
+    second: VAMPIRE_HUNTER_FREE_26
+  - first:
+      213: 942755784718893517
+    second: VAMPIRE_HUNTER_FREE_27
+  - first:
+      213: 3887761458682247162
+    second: VAMPIRE_HUNTER_FREE_28
+  - first:
+      213: -2646762004562512876
+    second: VAMPIRE_HUNTER_FREE_29
+  - first:
+      213: -5452916401400135062
+    second: VAMPIRE_HUNTER_FREE_30
+  - first:
+      213: -7988733594833668185
+    second: VAMPIRE_HUNTER_FREE_31
+  - first:
+      213: 6316562556749796340
+    second: VAMPIRE_HUNTER_FREE_32
+  - first:
+      213: 2508369218327591405
+    second: VAMPIRE_HUNTER_FREE_33
+  - first:
+      213: -3132479666497093957
+    second: VAMPIRE_HUNTER_FREE_34
+  - first:
+      213: 7518635093213967871
+    second: VAMPIRE_HUNTER_FREE_35
+  - first:
+      213: -7459896401357234922
+    second: VAMPIRE_HUNTER_FREE_36
+  - first:
+      213: 1974626788473029587
+    second: VAMPIRE_HUNTER_FREE_37
+  - first:
+      213: 6870854378067764701
+    second: VAMPIRE_HUNTER_FREE_38
+  - first:
+      213: -1620784202673312284
+    second: VAMPIRE_HUNTER_FREE_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 640
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0874e29c4be5bc0800000000000000
+      internalID: -3792395060041514804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 640
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdf1f6d1f5b751b0800000000000000
+      internalID: -5667861555724550669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 640
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fb192b8e8f175b0800000000000000
+      internalID: -5372239202164293796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 592
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aad85988b4c28a0800000000000000
+      internalID: -6328600326365664746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 592
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094dde4e406c1c70800000000000000
+      internalID: 8943128849497803020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 592
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ae581186c81efc0800000000000000
+      internalID: -3467335859500094967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 592
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f6fb687c12d0b0800000000000000
+      internalID: -5705466474391997374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 544
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c27b0b7a6f755020800000000000000
+      internalID: 2329908477541708489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 544
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f67d97236dde70800000000000000
+      internalID: 9141571840428667893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 496
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6ee17c1b2d3a2a0800000000000000
+      internalID: -6727301757369653517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 496
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c404228834a441730800000000000000
+      internalID: 3968878825527459916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 448
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbed50636142f5d0800000000000000
+      internalID: -3030287704192586801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd65a299d80db8f0800000000000000
+      internalID: -523252251143868942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 448
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2124bb331190ae00800000000000000
+      internalID: 1054001824596762924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 448
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b127db8be232650800000000000000
+      internalID: 6206856082433907556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 400
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e30bd7b4bcbbfb0800000000000000
+      internalID: -4630884266728735160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 400
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcdbd54dfee291b0800000000000000
+      internalID: -5651191810830377794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 400
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daedb8a503c64ab60800000000000000
+      internalID: 7756443413172182701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 400
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e4c6b7e85d7fd0800000000000000
+      internalID: -2342618478935742803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 347
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c8893aa923d5a0800000000000000
+      internalID: -6497804026279051233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 348
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f888608cdac8c70800000000000000
+      internalID: 8974739232057233197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 304
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dd6007061d5e900800000000000000
+      internalID: 713206328134655363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 304
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e32d6a77b9c11220800000000000000
+      internalID: 2454965061763802083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 272
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aceef036ff539430800000000000000
+      internalID: 3788477222537325735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 208
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8df23ffad818090800000000000000
+      internalID: -8033984473413461836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 208
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2053d639f709aa0800000000000000
+      internalID: -6156280419446357250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 208
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b421a8a50c4f900800000000000000
+      internalID: 717409735754795865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 208
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc14d1a2467551d00800000000000000
+      internalID: 942755784718893517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 208
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7b53cc27a14f530800000000000000
+      internalID: 3887761458682247162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 208
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414fc01eaffc44bd0800000000000000
+      internalID: -2646762004562512876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62c4a87c695354b0800000000000000
+      internalID: -5452916401400135062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7b5b22f11522190800000000000000
+      internalID: -7988733594833668185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 160
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3da94cd20f8a750800000000000000
+      internalID: 6316562556749796340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 160
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9b0ff93848fc220800000000000000
+      internalID: 2508369218327591405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 160
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe7e4407523784d0800000000000000
+      internalID: -3132479666497093957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 112
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5fdc628ce875860800000000000000
+      internalID: 7518635093213967871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d13e74fbf197890800000000000000
+      internalID: -7459896401357234922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 112
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c7e22a98476b10800000000000000
+      internalID: 1974626788473029587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5aa2c47ad2a5f50800000000000000
+      internalID: 6870854378067764701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRE_HUNTER_FREE_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda71eda51d189e0800000000000000
+      internalID: -1620784202673312284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7cede249ea0d4e944b34988c5aa4bf8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VAMPIRE_HUNTER_FREE_0: -3792395060041514804
+      VAMPIRE_HUNTER_FREE_1: -5667861555724550669
+      VAMPIRE_HUNTER_FREE_10: 3968878825527459916
+      VAMPIRE_HUNTER_FREE_11: -3030287704192586801
+      VAMPIRE_HUNTER_FREE_12: -523252251143868942
+      VAMPIRE_HUNTER_FREE_13: 1054001824596762924
+      VAMPIRE_HUNTER_FREE_14: 6206856082433907556
+      VAMPIRE_HUNTER_FREE_15: -4630884266728735160
+      VAMPIRE_HUNTER_FREE_16: -5651191810830377794
+      VAMPIRE_HUNTER_FREE_17: 7756443413172182701
+      VAMPIRE_HUNTER_FREE_18: -2342618478935742803
+      VAMPIRE_HUNTER_FREE_19: -6497804026279051233
+      VAMPIRE_HUNTER_FREE_2: -5372239202164293796
+      VAMPIRE_HUNTER_FREE_20: 8974739232057233197
+      VAMPIRE_HUNTER_FREE_21: 713206328134655363
+      VAMPIRE_HUNTER_FREE_22: 2454965061763802083
+      VAMPIRE_HUNTER_FREE_23: 3788477222537325735
+      VAMPIRE_HUNTER_FREE_24: -8033984473413461836
+      VAMPIRE_HUNTER_FREE_25: -6156280419446357250
+      VAMPIRE_HUNTER_FREE_26: 717409735754795865
+      VAMPIRE_HUNTER_FREE_27: 942755784718893517
+      VAMPIRE_HUNTER_FREE_28: 3887761458682247162
+      VAMPIRE_HUNTER_FREE_29: -2646762004562512876
+      VAMPIRE_HUNTER_FREE_3: -6328600326365664746
+      VAMPIRE_HUNTER_FREE_30: -5452916401400135062
+      VAMPIRE_HUNTER_FREE_31: -7988733594833668185
+      VAMPIRE_HUNTER_FREE_32: 6316562556749796340
+      VAMPIRE_HUNTER_FREE_33: 2508369218327591405
+      VAMPIRE_HUNTER_FREE_34: -3132479666497093957
+      VAMPIRE_HUNTER_FREE_35: 7518635093213967871
+      VAMPIRE_HUNTER_FREE_36: -7459896401357234922
+      VAMPIRE_HUNTER_FREE_37: 1974626788473029587
+      VAMPIRE_HUNTER_FREE_38: 6870854378067764701
+      VAMPIRE_HUNTER_FREE_39: -1620784202673312284
+      VAMPIRE_HUNTER_FREE_4: 8943128849497803020
+      VAMPIRE_HUNTER_FREE_5: -3467335859500094967
+      VAMPIRE_HUNTER_FREE_6: -5705466474391997374
+      VAMPIRE_HUNTER_FREE_7: 2329908477541708489
+      VAMPIRE_HUNTER_FREE_8: 9141571840428667893
+      VAMPIRE_HUNTER_FREE_9: -6727301757369653517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
